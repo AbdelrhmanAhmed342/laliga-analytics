@@ -16,6 +16,16 @@
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/yourusername/la-liga-analysis.git
+git clone https://github.com/AbdelrhmanAhmed342/la-liga-analysis.git
 pip install -r requirements.txt
 jupyter notebook
+## 📌 How to Contribute
+1. Fork this repository
+2. Create a branch (`git checkout -b improve-feature`)
+3. Commit changes (`git commit -m 'Add new metric'`)
+4. Push (`git push origin improve-feature`)
+5. Open a Pull Request
+
+## ❓ FAQ
+**Q:** How was the data collected?  
+**A:** [From [source name] with [cleaning method].](https://www.kaggle.com/datasets/marcelbiezunski/laliga-matches-dataset-2019-2025-fbref)
