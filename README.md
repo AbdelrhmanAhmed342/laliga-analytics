@@ -16,7 +16,7 @@
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/AbdelrhmanAhmed342/la-liga-analysis.git
+git clone https://github.com/AbdelrhmanAhmed342/laliga-analytics.git
 pip install -r requirements.txt
 jupyter notebook
 ## 📌 How to Contribute
